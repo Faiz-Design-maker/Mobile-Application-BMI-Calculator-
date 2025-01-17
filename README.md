@@ -1,2 +1,2 @@
 # Mobile-Application-BMI-Calculator-
-Includes Xml code and JAVA
+A BMI calculator is a tool that estimates your body fat percentage by calculating your body mass index (BMI). BMI is a ratio of your weight to your height. 
